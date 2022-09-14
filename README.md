@@ -7,3 +7,4 @@ Python scripts  that have been helpful in automating daily repeated tasks
 4. PDF Table Extractor. Script to extract tables from pdf documents and export to csv/xlsl.
 5. File Compressor. Compress big files into zipped folders.
 6. Fix Grammar.  Python function that receives a sentence/ paragraph with wrong grammar and returns one with correct grammar.
+7. Reverse Geocoder. Script to convert latitudes and longitudes into human readable addresses using google maps. 
