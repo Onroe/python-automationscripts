@@ -8,3 +8,4 @@ Python scripts  that have been helpful in automating daily repeated tasks
 5. File Compressor. Compress big files into zipped folders.
 6. Fix Grammar.  Python function that receives a sentence/ paragraph with wrong grammar and returns one with correct grammar.
 7. Reverse Geocoder. Script to convert latitudes and longitudes into human readable addresses using google maps. 
+8. PDF Image Converter. Return images from pdf documents.
