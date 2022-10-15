@@ -9,3 +9,4 @@ Python scripts  that have been helpful in automating daily repeated tasks
 6. Fix Grammar.  Python function that receives a sentence/ paragraph with wrong grammar and returns one with correct grammar.
 7. Reverse Geocoder. Script to convert latitudes and longitudes into human readable addresses using google maps. 
 8. PDF Image Converter. Return images from pdf documents.
+9. Watermark PDF Document. Add watermarks to pdf documents.
